@@ -96,17 +96,6 @@ This document outlines the entities, attributes, and relationships for the Airbn
 
 ---
 
-## 🖼️ ER Diagram
-
-The ER diagram visually represents the entities and their relationships. You can find the visual diagram in the file:  
-📍 `ERD/erd.png`
-
-To view or edit this diagram:
-- Open [https://draw.io](https://draw.io) or [https://app.diagrams.net](https://app.diagrams.net)
-- Import the file or recreate using the entity list above
-
----
-
 ## 📌 Notes
 
 - All primary keys are UUIDs for uniqueness across distributed systems
