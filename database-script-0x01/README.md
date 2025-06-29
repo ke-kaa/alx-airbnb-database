@@ -47,17 +47,17 @@ Make sure PostgreSQL is installed and running.
 
 ```sql
 CREATE DATABASE airbnb_clone;
-
+```
 ### Step 3: Connect to the Database
 
 ```sql
 psql -U your_username -d airbnb_clone
-
+```
 ### Step 4: Run the Schema File
 ```sql
 -- Inside psql shell
 \i path/to/schema.sql
-
+```
 ### 📌 Example Relationships
 
 - A **User** can be a **host** or **guest**.
